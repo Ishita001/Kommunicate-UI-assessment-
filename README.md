@@ -34,3 +34,8 @@ In the feild of web development my best project was Filmistream. It's a web appl
 Links: https://ishita001.github.io/Filmistream/
 
 Github: https://github.com/Ishita001/Filmistream
+
+
+
+## Que 5. If you are to start a software company, name 2 people from your batch whom you will choose as your partner and why?
+I will start this company with 2 of my frineds, Khizar baig and Fhiny francis. I has known both of them since the first year of my B-Tech and we three have bonded very well on the very first day. I have a huge amount of trust in both of them and they have always been my support factor in any decision guiding me towards right and wrong, so they will be perfect partners for this company. Also, they have very good knowledge in their sectors, Fhiny is very good with technical stuff and coming up with new things, while khizar is very smart and has a huge network of people from different sectors. So, I think these two people will be perfect for partners to start a company.
