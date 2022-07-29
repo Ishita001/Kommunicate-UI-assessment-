@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>How To Get URL Parameters using JavaScript?</title>
+</head>
+
+<body>
+	<h1 style="color:blue;">
+		Kommunicate Ui
+	</h1>
+	
+	<p> The url used is:
+      “https://www.kommunicate.io/poweredby?utm_source=https://www.kommunicate.io/&utm_medium=webplugin&utm_campaign=poweredby”
+	</p>
+
+	<p> Click on the button to get the url parameters in the console. </p>
+
+	<button onclick="getParameters()"> Get URL parameters </button>
+	<script>
+	function getParameters() {
+		let urlString =
+"https://www.kommunicate.io/poweredby?utm_source=https://www.kommunicate.io/&utm_medium=webplugin&utm_campaign=poweredby"
+		let paramString = urlString.split('?')[1];
+		let queryString = new URLSearchParams(paramString);
+		for(let pair of queryString.entries()) {
+			console.log("Key is: " + pair[0]);
+			console.log("Value is: " + pair[1]);
+		}
+	}
+	</script>
+</body>
+
+</html>
