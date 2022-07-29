@@ -11,9 +11,9 @@ name and returns the value of that parameter.
         }
         
         
-        ![image](https://user-images.githubusercontent.com/54895157/181740658-4aff9614-f16d-4c81-b6e3-da2c87cd60d9.png)
-       
-        ![image](https://user-images.githubusercontent.com/54895157/181740746-d696ccda-fe58-4cc7-bb90-61fabe44ad0c.png)
+![image](https://user-images.githubusercontent.com/54895157/181740658-4aff9614-f16d-4c81-b6e3-da2c87cd60d9.png)
+
+![image](https://user-images.githubusercontent.com/54895157/181740746-d696ccda-fe58-4cc7-bb90-61fabe44ad0c.png)
 
 
 
